@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cstdlib>
-#define N 4
+#define N 64
 
 using namespace std;
 
